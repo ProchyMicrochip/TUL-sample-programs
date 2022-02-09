@@ -1,4 +1,4 @@
-#Uloha na praci s retezcem - uprava/prace s retezcem bez funkci pro retezce string.h
+# Uloha na praci s retezcem - uprava/prace s retezcem bez funkci pro retezce string.h
 -----------------------------------------------------------------------------------
 
 Napiste a otestujte funkci na vyhledani n-teho vyskytu retezce. Funkce vrati index prvniho znaku hledaneho retezce.
