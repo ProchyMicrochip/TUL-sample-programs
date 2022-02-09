@@ -1,83 +1,18 @@
-# Uloha nalezeni cesty pomoci backtracing
+#Uloha na praci s retezcem - uprava/prace s retezcem bez funkci pro retezce string.h
+-----------------------------------------------------------------------------------
 
-- Pomyslna oblast obdelnikoveho tvaru o velikosti 8 x 4 policek (w x h). V teto oblasti hledame cestu z policka [0, 0] na policko cilove urcene nahodne [ex, ey]. V oblasti je jedna prekazka nahodne umistena na policku [ox, oy].
+Napiste a otestujte funkci na vyhledani n-teho vyskytu retezce. Funkce vrati index prvniho znaku hledaneho retezce.
 
-- Pro hledani cesty plati pravidla
-  - z jednoho policka na druhe se chodi ve smerech v tomto poradi doprava (x + 1), dolu (y + 1), doleva (x - 1), nahoru (y - 1)
-  - nemohu jit na policko na kterem jsem uz byl, nebo je mimo oblast ci jde o prekazku, napr. pokud bych mel jit doprava a nemohu tam, jdu dalsim smerem, tedy dolu a pokud ani tam nemohu jit, zkusim jit doleva atd.
+1) Napiste funkci, ktera vyhleda n-ty vyskyt retezce ve zdrojovem textu. Funkce bude vracet index prvniho znaku nalezeneho retezce
+ve zdrojovem textu. Pokud neni retezec nalezen vrati hodnotu -1. Vstupni retezec, hledany retezec a nty vyskyt zadavejte jako parametry funkce.
 
-- Abych si pamatoval kde jsem uz byl, tak si musim policko oznacit. Pro ulozeni se pouzije 32 bitova hodnota, kde jednotlive bity odpovidaji prislusnym polickum oblasti (proto oblast velikosti 8x4). Navstivene policku = nastaveny bit. Cislo bitu pro prislusne policko je dano vztahem b = y * w + x (napr. pro policko [3, 2], kdy w = 8, to bude bit c. 19). Stejnym zpusobem bude ulozena uspesne nalezena cesta.
+2) V hlavnim programu definujte promennou retezce s jeji inicializaci a v tomto textu vyhledejte pomoci funkce nejaky text a vypiste na std. vystup
+index nalezeneho retezce.
 
-1) napiste funkci, ktera nastavi bit promenne pro navstivena policka podle souradnic [x, y]
+Napr. v textu:
 
-2) napiste funkci, ktera otestuje nastaveni bitu promenne pro navstivena policka podle souradnic [x, y]
+"Na strane 123 v 5-tem odstavci najdete 123 oddelenych slov"
 
-3) analogicky jako v 1) a 2) pro uspesnou cestu
-
-4) napiste rekurzivni funkci pro prochazeni oblasti, zacinate predanim souradnic [0, 0]
-
-5) vykreslete do vystupu nalezenou cestu v oblasti a vyznacte prekazku (znakem X) a cil (znakem O)
-
-Pozn.:
-- promenne w, h, ex, ey, ox, oy a pro ulozeni stavu navstivenych policek a uspesne cesty definujte jako globalni
-- pro nastavovani bitu a cteni jeho stavu vyuzijte bitoveho posunu
-
-Priklad vystupu:
-1.  ```
-    Start 0,0 / Cil 6,1
-    ++X
-    +++++O
-    ```
-
-    - Jak probiha cesta:
-    ```
-    >vX
-    >>>>>O
-    ```
-
-2)  ```
-    Start 0,0 / Cil 7,3
-    +X
-    ++++++++
-    +
-    O
-    ```
-
-    - Jak probiha cesta:
-    ```
-    vX 
-    >>>>>>>v
-    v
-    O
-    ```
-
-3.  ```
-    Start 0,0 / Cil 4,3
-    ++++++++
-    +
-    ++++
-    OX++
-    ```
-    - Jak probiha cesta:
-    ```
-    >>>>>>>v
-    v
-    v<<v
-    OX^<
-    ```
-
-4. ```
-    Start 0,0 / Cil 5,1
-    ++++++++
-    O++
-    ++++++
-    X++++++
-    ```
-
-    - Jak probiha cesta:
-    ```
-    >>>>>>>v
-    O<v
-    >>>>^v
-    X^<<<<<
-    ```
+vyhledejte druhy vyskyt textu "123", funkce by mela vratit hodnotu 39
+vyhledejte druhy vyskyt textu "st", funkce by mela vratit hodnotu 24
+vyhledejte prvni vyskyt textu " ", funkce by mela vratit hodnotu 2
