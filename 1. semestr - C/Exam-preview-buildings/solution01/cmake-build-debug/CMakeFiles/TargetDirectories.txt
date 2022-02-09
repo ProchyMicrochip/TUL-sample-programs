@@ -1,0 +1,3 @@
+C:/Users/kubap/CLionProjects/Budovy/cmake-build-debug/CMakeFiles/Budovy.dir
+C:/Users/kubap/CLionProjects/Budovy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kubap/CLionProjects/Budovy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
