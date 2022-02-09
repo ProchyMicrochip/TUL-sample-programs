@@ -11,6 +11,6 @@ Napr. v textu:
 
 "Na strane 123 v 5-tem odstavci najdete 123 oddelenych slov"
 
--vyhledejte druhy vyskyt textu "123", funkce by mela vratit hodnotu 39
--vyhledejte druhy vyskyt textu "st", funkce by mela vratit hodnotu 24
--vyhledejte prvni vyskyt textu " ", funkce by mela vratit hodnotu 2
+- vyhledejte druhy vyskyt textu "123", funkce by mela vratit hodnotu 39
+- vyhledejte druhy vyskyt textu "st", funkce by mela vratit hodnotu 24
+- vyhledejte prvni vyskyt textu " ", funkce by mela vratit hodnotu 2
