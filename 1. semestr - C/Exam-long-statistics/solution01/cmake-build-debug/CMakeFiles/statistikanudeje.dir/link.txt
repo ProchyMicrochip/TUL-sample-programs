@@ -1,1 +1,0 @@
-/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/statistikanudeje.dir/main.c.o -o statistikanudeje.exe -Wl,--out-implib,libstatistikanudeje.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

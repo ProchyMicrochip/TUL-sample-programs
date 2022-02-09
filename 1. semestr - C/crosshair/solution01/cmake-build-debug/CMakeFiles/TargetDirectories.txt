@@ -1,3 +1,0 @@
-/cygdrive/c/Users/kubap/CLionProjects/cv7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/kubap/CLionProjects/cv7/cmake-build-debug/CMakeFiles/edit_cache.dir
-/cygdrive/c/Users/kubap/CLionProjects/cv7/cmake-build-debug/CMakeFiles/cv7.dir
