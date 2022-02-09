@@ -7,7 +7,7 @@ Napiste a otestujte funkci na vyhledani n-teho vyskytu retezce. Funkce vrati ind
 
 2) V hlavnim programu definujte promennou retezce s jeji inicializaci a v tomto textu vyhledejte pomoci funkce nejaky text a vypiste na std. vystup index nalezeneho retezce.
 
-Napr. v textu:
+** Napr. v textu: **
 
 "Na strane 123 v 5-tem odstavci najdete 123 oddelenych slov"
 
