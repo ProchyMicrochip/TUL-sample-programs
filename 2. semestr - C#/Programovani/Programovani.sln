@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programovani.Consumption", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programovani.Library", "Programovani.Library\Programovani.Library.csproj", "{2A3BE5F9-E066-48BC-B2E7-90C59A605C06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programovani.VisualMovement", "Programovani.VisualMovement\Programovani.VisualMovement.csproj", "{D75B9939-E588-49B4-BF0A-4270CF10E3A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2A3BE5F9-E066-48BC-B2E7-90C59A605C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A3BE5F9-E066-48BC-B2E7-90C59A605C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A3BE5F9-E066-48BC-B2E7-90C59A605C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75B9939-E588-49B4-BF0A-4270CF10E3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75B9939-E588-49B4-BF0A-4270CF10E3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75B9939-E588-49B4-BF0A-4270CF10E3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75B9939-E588-49B4-BF0A-4270CF10E3A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

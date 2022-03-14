@@ -4,3 +4,9 @@ C:\Users\kubap\source\repos\Programovani\Programovani.Library\obj\Debug\Programo
 C:\Users\kubap\source\repos\Programovani\Programovani.Library\obj\Debug\Programovani.Library.csproj.CoreCompileInputs.cache
 C:\Users\kubap\source\repos\Programovani\Programovani.Library\obj\Debug\Programovani.Library.dll
 C:\Users\kubap\source\repos\Programovani\Programovani.Library\obj\Debug\Programovani.Library.pdb
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\bin\Debug\Programovani.Library.dll
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\bin\Debug\Programovani.Library.pdb
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\obj\Debug\Programovani.Library.csproj.AssemblyReference.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\obj\Debug\Programovani.Library.csproj.CoreCompileInputs.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\obj\Debug\Programovani.Library.dll
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Library\obj\Debug\Programovani.Library.pdb

@@ -12,3 +12,17 @@ C:\Users\kubap\source\repos\Programovani\Programovani.Consumption\obj\Debug\Prog
 C:\Users\kubap\source\repos\Programovani\Programovani.Consumption\bin\Debug\Programovani.Library.dll
 C:\Users\kubap\source\repos\Programovani\Programovani.Consumption\bin\Debug\Programovani.Library.pdb
 C:\Users\kubap\source\repos\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.CopyComplete
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\bin\Debug\Programovani.Consumption.exe.config
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\bin\Debug\Programovani.Consumption.exe
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\bin\Debug\Programovani.Consumption.pdb
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\bin\Debug\Programovani.Library.dll
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\bin\Debug\Programovani.Library.pdb
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.AssemblyReference.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.SuggestedBindingRedirects.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.Form1.resources
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.Properties.Resources.resources
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.GenerateResource.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.CoreCompileInputs.cache
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.csproj.CopyComplete
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.exe
+C:\Users\kubap\OneDrive\Documents\GitHub\TUL-sample-programs\2. semestr - C#\Programovani\Programovani.Consumption\obj\Debug\Programovani.Consumption.pdb
