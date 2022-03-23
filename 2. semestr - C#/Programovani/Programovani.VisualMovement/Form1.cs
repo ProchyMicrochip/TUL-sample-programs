@@ -2,7 +2,6 @@
 using System.Drawing;
 using System.Timers;
 using System.Windows.Forms;
-using System.Windows;
 
 namespace Programovani.VisualMovement
 {
